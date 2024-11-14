@@ -57,7 +57,5 @@
   </ol>
   <p>Your very own piece of Morocco awaits at <code style="background-color: #F4F4F4; padding: 2px 5px; border-radius: 3px;">http://localhost:8000</code>!</p>
 
-  <h2 style="color: #2980B9;">License</h2>
-  <p>This project is licensed under <strong>[Your License]</strong>. See the LICENSE file for details.</p>
 
   <p style="text-align: center; color: #888;">Thank you for joining us on this journey to celebrate the heart of Moroccan culture!</p>
