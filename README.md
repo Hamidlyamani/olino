@@ -38,7 +38,7 @@
   <h2 style="color: #2980B9;">Getting Started</h2>
   <ol style="padding-left: 20px;">
     <li><strong>Clone the Repository</strong><br>
-      <code style="background-color: #F4F4F4; padding: 2px 5px; border-radius: 3px;">git clone https://github.com/your-username/Olino.git</code>
+      <code style="background-color: #F4F4F4; padding: 2px 5px; border-radius: 3px;">git clone https://github.com/Hamidlyamani/olino.git</code>
     </li>
     <li><strong>Install Dependencies</strong><br>
       <code style="background-color: #F4F4F4; padding: 2px 5px; border-radius: 3px;">composer install</code><br>
